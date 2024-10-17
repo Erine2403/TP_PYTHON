@@ -1,0 +1,4 @@
+2024-10-17 11:39:09,217 - INFO - La roulette a tiré le nombre : 31 (blanc)
+2024-10-17 11:39:09,217 - INFO - Vous avez gagné 2.5 €. Il vous reste 12.5 €. 
+2024-10-17 11:39:20,895 - INFO - La roulette a tiré le nombre : 47 (blanc)
+2024-10-17 11:39:20,896 - INFO - Dommage, vous avez perdu votre mise. Il vous reste 11.5 €. 
